@@ -1,0 +1,6 @@
+@Test.net8.Common_HostAddress = http://localhost:5014
+
+GET {{Test.net8.Common_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
